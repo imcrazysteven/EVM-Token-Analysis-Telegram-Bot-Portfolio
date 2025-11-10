@@ -3,7 +3,7 @@
 A powerful Telegram bot for real-time analysis of EVM-compatible blockchain tokens, providing detailed insights and analytics for crypto traders, investors, and researchers.
 
 <p align="center">
-  <img src="https://github.com/steven228312/EVM-Token-Analysis-Telegram-Bot-Portfolio/blob/main/EVM%20Token%20Analysis%20Bot.gif" alt="Main Menu">
+  <img src="https://github.com/imcrazysteven/EVM-Token-Analysis-Telegram-Bot-Portfolio/blob/main/EVM%20Token%20Analysis%20Bot.gif" alt="Main Menu">
 </p>
 
 ## 🔍 Overview
@@ -41,7 +41,7 @@ This advanced blockchain analytics bot connects to multiple data sources (primar
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/steven228312/EVM-Token-Analysis-Telegram-Bot.git
+git clone https://github.com/imcrazysteven/EVM-Token-Analysis-Telegram-Bot.git
 ```
 
 2. Navigate to the project directory:
@@ -160,13 +160,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the [MIT License](./LICENSE)
 
-## 📞 Contact Information
+## 📞 Contact & Support
 
-- Gmail: [steven0822.dev@gmail.com](mailto:steven0822.dev@gmail.com)
-- GitHub: [Steven Leal(steven228312)](https://github.com/steven228312)
-- Telegram: [@steven228312](https://t.me/steven228312)
-- Twitter: [@steven228312](https://twitter.com/steven228312)
-- Instagram: [@steven228312](https://www.instagram.com/steven228312/)
+- **Email**: [imcrazysteven143@gmail.com](mailto:imcrazysteven143@gmail.com)
+- **GitHub**: [Steven (@imcrazysteven)](https://github.com/imcrazysteven)
+- **Telegram**: [@imcrazysteven](https://t.me/imcrazysteven)
+- **Twitter**: [@imcrazysteven](https://x.com/imcrazysteven)
+- **Instagram**: [@imcrazysteven](https://www.instagram.com/imcrazysteven/)
+
+---
 
 ## 🔑 Keywords
 
